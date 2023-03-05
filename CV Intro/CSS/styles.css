@@ -1,0 +1,21 @@
+body {
+    background-color: #F1F6F5;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #472183;
+    border-width: 6px;
+    width: 8%;
+}
+
+h1 {
+    color: #4B56D2;
+    font-family: "Lucida Sans", Monospace, serif;
+}
+
+h3 {
+    color: #4B56D2;
+    font-family: "Lucida Sans", Monospace, serif;
+}
