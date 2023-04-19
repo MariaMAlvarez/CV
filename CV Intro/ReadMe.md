@@ -1,4 +1,5 @@
-#CV Intro
+# CV Intro
+
 This was the first website I made, which is a simple copy of my CV.
 
 It is mostly a HTML project with a litle bit of CSS, mostly for background color.
