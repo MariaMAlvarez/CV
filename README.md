@@ -1,5 +1,5 @@
 # WebDev
-These are the projects I have done during The Complete 2023 Web Development Bootcamp. 
+These are the projects I have done during The Complete 2023 Web Development Bootcamp (https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
 Feel free to explore them by opening the folder of each project and clicking on the link to check them out. 
 
