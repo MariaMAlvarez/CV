@@ -6,4 +6,4 @@ Here I created an online resume. It has my most important achievments and some o
 
 In this website I used all the elements taught in the module and some others, such as headers, paragraphs, images, anchors, lists, tables, etc.
 
-Feel free to check it out [here](https://mariamalvarez.github.io/Web-Development/1%20-%20Online%20Resume/)
+Feel free to check it out [here](https://mariamalvarez.github.io/Web-Development/1%20-%20Online%20Resume/)!
